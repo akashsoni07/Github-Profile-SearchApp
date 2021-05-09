@@ -1,0 +1,6 @@
+.bg-secondary , .btn-secondary{
+  background:linear-gradient(45deg,black,purple)
+}
+.btn-success{
+  background:linear-gradient(45deg,black,green)
+}
